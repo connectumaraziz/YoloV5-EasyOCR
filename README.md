@@ -3,7 +3,7 @@
 In this project the model is built in order to get detect ID card and scrap required information into Excel, CSV, or JSON file formate.<br>
 ## Step: 1
 Create detection model with specified labels that required to scrap.
-For more visit [YoloV5 Official Repo](https://github.com/ultralytics/yolov5)
+For more visit and clone [YoloV5 Official Repo](https://github.com/ultralytics/yolov5)
 ## Step: 2
 After Training the model, weight file "best.pt" should save locally.
 ## Step:3
