@@ -14,4 +14,7 @@ os.system('python yolov5/detect.py --weights best.pt --source [Path to input Ima
 ```
 
 ## Step:4
-run "runALL.py" 
+run "runALL.py" <br>
+# Note <br>
+> This project use only 100 images to train and have medium accuracy. you can use 1000 images per class in order to get better accuracy,
+> The blur images in exp folder is credential data of person.
